@@ -1,0 +1,20 @@
+body{
+    background: rgb(231, 245, 244);
+    height: 100vh;
+    text-align: center;
+    color: rgb(43, 36, 46);
+    font-size: 1.5rem;
+}
+h1{
+    border-radius: 16px;
+    border: 5px solid rgb(56, 75, 117);
+    background-color: rgb(160, 199, 214);
+    padding: 10px;
+}
+h2{
+    color: rgb(64, 60, 68);
+}
+a{
+    color: rgb(84, 139, 184);
+    text-decoration: none;
+}
